@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'selenium-webdriver', '2.7.0'
+gem "test-unit"
+
+gem 'rubyzip', '0.9.9'

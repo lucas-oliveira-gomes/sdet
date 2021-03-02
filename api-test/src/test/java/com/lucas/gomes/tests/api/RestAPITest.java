@@ -15,7 +15,7 @@ public class RestAPITest {
 
 	private static final String URL = "https://api.interzoid.com/getweather?city={city}&state={state}";
 	private static final String URL_MISSING_PARAMS = "https://api.interzoid.com/getweather";
-	private static final String X_API_KEY = "1ebc309a2923a60346aed9f420048cf0";
+	private static final String X_API_KEY = "[YOUR_API_KEY]";
 	
 
 	@Test
